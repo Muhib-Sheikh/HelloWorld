@@ -33,6 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+Some challenges I faced included:
+* Installing Android Studio - my file location was wrong but I was able to fix it 
+* Getting the emulate setup right - it was opening in the toolbar and I wanted it to popout, looked it up and it was a checkbox in settings
+* Connecting my GitHub account to Android Studio - did some research and ended up generating a token to use for login
+* getting the correct .gitignore and merging master into main - realized there was a merge conflict so I resolved that then I was able to merge successfully
 Describe any challenges encountered while building the app.
 
 ## License
