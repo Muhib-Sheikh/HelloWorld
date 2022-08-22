@@ -17,9 +17,10 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 <!-- * [ ] List anything else that you can get done to improve the app functionality! -->
-* [ ] Changed TextView color to Teal
-* [ ] Changed TextView background color to Black
-* [ ] Used fitEnd scale type for ImageView
+* [X] Changed TextView color to Teal
+* [X] Changed TextView background color to Black
+* [X] Used fitEnd scale type for ImageView
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
@@ -39,8 +40,8 @@ Some challenges I faced included:
 * Installing Android Studio - my file location was wrong but I was able to fix it 
 * Getting the emulate setup right - it was opening in the toolbar and I wanted it to popout, looked it up and it was a checkbox in settings
 * Connecting my GitHub account to Android Studio - did some research and ended up generating a token to use for login
-* Getting the correct .gitignore and merging master into main - realized there was a merge conflict so I resolved that then I was able to merge successfully
-Describe any challenges encountered while building the app.
+* Getting the correct .gitignore, dealing with master vs main, merging master into main - realized there was a merge conflict so I resolved that then I was able to merge successfully
+<!-- Describe any challenges encountered while building the app. -->
 
 ## License
 
